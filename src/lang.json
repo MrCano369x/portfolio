@@ -1,0 +1,306 @@
+{
+  "en": {
+    "src": "icons/english.png",
+    "aboutme": {
+      "title": "About me",
+      "gretting": "¡Hello! I'm Arturo Cano",
+      "description": "A recent graduate in Software Engineering, I live in Colima, Mexico, I'm 22 years old, and I've been learning to program for 5 years and I love it. I consider myself very competent in fullstack web development with JavaScript and I'm really looking forward to getting my first job.",
+      "contact": "Contact me",
+      "download": "Download CV"
+    },
+    "skills": {
+      "title": "Skills",
+      "logos": [
+        { "name": "JavaScript", "src": "icons/js.png" },
+        { "name": "HTML", "src": "icons/html.png" },
+        { "name": "CSS", "src": "icons/css.png" },
+        { "name": "Nodejs", "src": "icons/nodejs.png" },
+        { "name": "React", "src": "icons/react.svg" },
+        { "name": "Nextjs", "src": "icons/nextjs.png" }
+      ]
+    },
+    "tools": {
+      "title": "Tools",
+      "logos": [
+        {
+          "name": "Heroku",
+          "src": "icons/heroku.ico",
+          "sub": "app deployment"
+        },
+        {
+          "name": "Netlify",
+          "src": "icons/netlify.png",
+          "sub": "app deployment"
+        },
+        {
+          "name": "Visual Studio Code",
+          "src": "icons/visualcode.png",
+          "sub": "code editor"
+        },
+        {
+          "name": "MongoDB",
+          "src": "icons/mongoDB.svg",
+          "sub": "cloud database"
+        },
+        {
+          "name": "Express",
+          "src": "icons/express.png",
+          "sub": "web server"
+        },
+        { "name": "Godot", "src": "icons/godot.png", "sub": "game engine" },
+        {
+          "name": "Firebase",
+          "src": "icons/firebase2.png",
+          "sub": "cloud services"
+        },
+        {
+          "name": "SocketIo",
+          "src": "icons/socketio.png",
+          "sub": "real-time apps"
+        },
+        {
+          "name": "Puppeteer",
+          "src": "icons/puppeteer.png",
+          "sub": "web scraping"
+        },
+        {
+          "name": "Git/GitHub",
+          "src": "icons/github.png",
+          "sub": "version control"
+        },
+        { "name": "Bulma", "src": "icons/bulma.svg", "sub": "CSS library" },
+        {
+          "name": "Tailwind",
+          "src": "icons/tailwind.png",
+          "sub": "CSS library"
+        }
+      ]
+    },
+    "studies": {
+      "title": "Studies and Certificates",
+      "logos": [
+        {
+          "name": "BrightCoders",
+          "sub": "BootCamp Ruby on Rails",
+          "src": "images/bc.jpg",
+          "url": "documents/BC.jpg"
+        },
+        {
+          "name": "Universidad de Colima",
+          "sub": "Software Engineering",
+          "src": "images/ucol2.png",
+          "url": "documents/carrera.jpg"
+        },
+        {
+          "name": "Universidad de Colima",
+          "sub": "Technician Analyst Programmer",
+          "src": "images/ucol2.png",
+          "url": "documents/bachi.jpg"
+        },
+        {
+          "name": "LUDOLAB",
+          "sub": "participation in the contest",
+          "src": "images/ludolab.jpg",
+          "url": "documents/G4E.png"
+        }
+      ]
+    },
+    "hobbies": {
+      "title": "Hobbies",
+      "logos": [
+        { "name": "Programming", "src": "images/programacion.png" },
+        { "name": "Listen to music", "src": "images/musica.png" },
+        { "name": "Draw", "src": "images/dibujar.png" },
+        { "name": "Videogames", "src": "images/games.png" }
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "show": "See",
+      "projects": [
+        {
+          "name": "MemoRivals",
+          "desc": "WebApp where you can create decks of flipcards to help you memorize anything (language vocabulary, questions, formulas), then you can challenge a friend to an online memory game using your deck.",
+          "url": "https://memorivals.netlify.app",
+          "images": [
+            "images/memorivals.png",
+            "images/memorivals2.png",
+            "images/memorivals3.gif"
+          ]
+        },
+        {
+          "name": "BrightBets",
+          "desc": "WebApp where you can bet fictitious coins on four casino-type mini-games, such as slots-machine, horse racing, etc. Some minigames are online multiplayer.",
+          "url": "http://brightbets.herokuapp.com/",
+          "images": [
+            "images/brightbets.jpg",
+            "images/brightbets2.png",
+            "images/brightbets3.png"
+          ]
+        },
+        {
+          "name": "Warms",
+          "desc": "Online multiplayer web game that explores terrain destruction mechanics.",
+          "url": "https://wild-ones-ultra.herokuapp.com/",
+          "images": [
+            "images/warms.png",
+            "images/warms2.png",
+            "images/warms3.png"
+          ]
+        }
+      ]
+    }
+  },
+  "es": {
+    "src": "icons/spain.png",
+    "aboutme": {
+      "title": "Sobre mi",
+      "gretting": "¡Hola! soy Arturo Cano",
+      "description": "Un estudiante recién egresado en Ingeniería de Software, vivo en Colima, México, tengo 22 años, y desde hace 5 aprendí a programar y me encanta. Me considero muy capaz en el desarrollo web fullstack con JavaScript y tengo muchas ganas de obtener mi primer trabajo.",
+      "contact": "Contáctame",
+      "download": "Descargar CV"
+    },
+    "skills": {
+      "title": "Habilidades",
+      "logos": [
+        { "name": "JavaScript", "src": "icons/js.png" },
+        { "name": "HTML", "src": "icons/html.png" },
+        { "name": "CSS", "src": "icons/css.png" },
+        { "name": "Nodejs", "src": "icons/nodejs.png" },
+        { "name": "React", "src": "icons/react.svg" },
+        { "name": "Nextjs", "src": "icons/nextjs.png" }
+      ]
+    },
+    "tools": {
+      "title": "Herramientas",
+      "logos": [
+        {
+          "name": "Heroku",
+          "src": "icons/heroku.ico",
+          "sub": "despliegue de apps"
+        },
+        {
+          "name": "Netlify",
+          "src": "icons/netlify.png",
+          "sub": "despliegue de apps"
+        },
+        {
+          "name": "Visual Studio Code",
+          "src": "icons/visualcode.png",
+          "sub": "editor de código"
+        },
+        {
+          "name": "MongoDB",
+          "src": "icons/mongoDB.svg",
+          "sub": "base de datos en la nube"
+        },
+        {
+          "name": "Express",
+          "src": "icons/express.png",
+          "sub": "servidor web"
+        },
+        { "name": "Godot", "src": "icons/godot.png", "sub": "motor de juegos" },
+        {
+          "name": "Firebase",
+          "src": "icons/firebase2.png",
+          "sub": "servicios en la nube"
+        },
+        {
+          "name": "SocketIo",
+          "src": "icons/socketio.png",
+          "sub": "apps en tiempo real"
+        },
+        {
+          "name": "Puppeteer",
+          "src": "icons/puppeteer.png",
+          "sub": "web scraping"
+        },
+        {
+          "name": "Git/GitHub",
+          "src": "icons/github.png",
+          "sub": "control de versiones"
+        },
+        { "name": "Bulma", "src": "icons/bulma.svg", "sub": "libreria css" },
+        {
+          "name": "Tailwind",
+          "src": "icons/tailwind.png",
+          "sub": "libreria css"
+        }
+      ]
+    },
+    "studies": {
+      "title": "Estudios y Certificados",
+      "logos": [
+        {
+          "name": "BrightCoders",
+          "sub": "BootCamp Ruby on Rails",
+          "src": "images/bc.jpg",
+          "url": "documents/BC.jpg"
+        },
+        {
+          "name": "Universidad de Colima",
+          "sub": "Ingenieria en Software",
+          "src": "images/ucol2.png",
+          "url": "documents/carrera.jpg"
+        },
+        {
+          "name": "Universidad de Colima",
+          "sub": "Técnico Analista Programador",
+          "src": "images/ucol2.png",
+          "url": "documents/bachi.jpg"
+        },
+        {
+          "name": "LUDOLAB",
+          "sub": "Participación en el concurso",
+          "src": "images/ludolab.jpg",
+          "url": "documents/G4E.png"
+        }
+      ]
+    },
+    "hobbies": {
+      "title": "Pasatiempos",
+      "logos": [
+        { "name": "Programar", "src": "images/programacion.png" },
+        { "name": "Escuchar música", "src": "images/musica.png" },
+        { "name": "Dibujar", "src": "images/dibujar.png" },
+        { "name": "Videojuegos", "src": "images/games.png" }
+      ]
+    },
+    "projects": {
+      "title": "Proyectos",
+      "show": "Ver",
+      "projects": [
+        {
+          "name": "MemoRivals",
+          "desc": "WebApp donde puedes crear mazos de flipcards para ayudarte a memorizar cualquier cosa (vocabulario de idiomas, preguntas, fórmulas), luego podrás retar a un amigo a una partida de memorama online usando tu mazo.",
+          "url": "https://memorivals.netlify.app",
+          "images": [
+            "images/memorivals.png",
+            "images/memorivals2.png",
+            "images/memorivals3.gif"
+          ]
+        },
+        {
+          "name": "BrightBets",
+          "desc": "WebApp donde puedes apostar monedas ficticias en cuatro minijuegos tipo casino, como un tragamonedas, carrera de caballos etc. Algunos minijuegos son multijugador en linea.",
+          "url": "http://brightbets.herokuapp.com/",
+          "images": [
+            "images/brightbets.jpg",
+            "images/brightbets2.png",
+            "images/brightbets3.png"
+          ]
+        },
+        {
+          "name": "Warms",
+          "desc": "Juego web multijugador en linea que explora la mecánica de destrucción de terreno.",
+          "url": "https://wild-ones-ultra.herokuapp.com/",
+          "images": [
+            "images/warms.png",
+            "images/warms2.png",
+            "images/warms3.png"
+          ]
+        }
+      ]
+    }
+  }
+}

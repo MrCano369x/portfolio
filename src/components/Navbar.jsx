@@ -1,24 +1,24 @@
-export default function Navbar() {
+export default function Navbar({ sections }) {
   return (
     <div className="bg-sky-400 sticky top-0 shadow-md  z-10">
       <div className="text-white hidden md:flex items-center font-bold justify-end">
         <a href="#aboutme" className="p-4">
-          Sobre mi
+          {sections.aboutme.title}
         </a>
         <a href="#skills" className="p-4">
-          Habilidades
+          {sections.skills.title}
         </a>
         <a href="#tools" className="p-4">
-          Herramientas
+          {sections.tools.title}
         </a>
         <a href="#studies" className="p-4">
-          Estudios
+          {sections.studies.title}
         </a>
         <a href="#hobbies" className="p-4">
-          Pasatiempos
+          {sections.hobbies.title}
         </a>
         <a href="#projects" className="p-4">
-          Projectos
+          {sections.projects.title}
         </a>
       </div>
     </div>
