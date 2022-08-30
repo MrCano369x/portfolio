@@ -11,7 +11,7 @@ export default function Project2({ images, title, url, desc, show }) {
         <a
           href={url}
           target="_blank"
-          className="bg-sky-400 py-1 px-3 w-24 text-white cursor-pointer self-end flex items-center justify-between rounded-md"
+          className="bg-sky-400 py-1 px-3 w-24 text-white cursor-pointer self-end flex items-center justify-between rounded-md hover:bg-sky-600"
         >
           <span>{show}</span>
           <i class="fa-solid fa-up-right-from-square" />

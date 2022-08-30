@@ -60,7 +60,7 @@ export default function App() {
                 <a
                   href="/documents/arturo_cano_cv.pdf"
                   download
-                  className="bg-sky-400 py-1 px-3 w-36 text-white cursor-pointer self-end flex items-center justify-between rounded-md"
+                  className="bg-sky-400 py-1 px-3 w-36 text-white cursor-pointer self-end flex items-center justify-between rounded-md hover:bg-sky-600"
                 >
                   <span>{aboutme.download}</span>
                   <i class="fa-solid fa-download"></i>

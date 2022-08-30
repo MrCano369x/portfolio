@@ -49,13 +49,13 @@ export default function Carousel3({ images }) {
       />
 
       <div
-        className="absolute h-10 w-10 bg-sky-400 left-4 top-1/2 rounded-full cursor-pointer flex items-center justify-center"
+        className="absolute h-10 w-10 bg-sky-400 left-4 top-1/2 rounded-full cursor-pointer flex items-center justify-center shadow-md"
         onClick={() => setState(-1)}
       >
         <i className="fa-solid fa-angle-left text-white"></i>
       </div>
       <div
-        className="absolute h-10 w-10 bg-sky-400 right-4 top-1/2 rounded-full cursor-pointer flex items-center justify-center"
+        className="absolute h-10 w-10 bg-sky-400 right-4 top-1/2 rounded-full cursor-pointer flex items-center justify-center shadow-md"
         onClick={() => setState(1)}
       >
         <i className="fa-solid fa-angle-right text-white"></i>
@@ -67,7 +67,7 @@ export default function Carousel3({ images }) {
             key={i}
             className={`w-5 h-5 ${
               i == index ? "bg-sky-300" : "bg-sky-600"
-            }  rounded-full cursor-pointer`}
+            }  rounded-full cursor-pointer shadow-md`}
             onClick={() => setIndex(i)}
           ></div>
         ))}
