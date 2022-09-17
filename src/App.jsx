@@ -38,10 +38,11 @@ export default function App() {
 
       <div className="container mx-auto px-4 max-w-5xl">
         <Section title={aboutme.title} id="aboutme">
-          <div className="flex flex-col md:flex-row items-center text-center md:text-left">
-            <img src="images/yo.png" className="rounded-md h-48 w-48" />
+          <div className="flex flex-col md:flex-row items-center text-center md:text-left px-3">
+            <img src="images/yo3.png" className="rounded-full h-48 w-48" />
             <div className="ml-5">
               <h2 className="text-3xl font-bold">{aboutme.gretting}</h2>
+              <h3 className="text-md text-slate-600">{aboutme.grade}</h3>
               <p className="text-xl text-justify">{aboutme.description}</p>
               <div className="flex gap-2 py-2">
                 <span className="text-xl font-bold">{aboutme.contact}</span>
@@ -58,12 +59,12 @@ export default function App() {
                   <i className="fa-solid fa-square-envelope text-3xl text-sky-500" />
                 </a>
                 <a
-                  href="/documents/arturo_cano_cv.pdf"
+                  href="/documents/arturocano_cv.pdf"
                   download
                   className="bg-sky-400 py-1 px-3 w-36 text-white cursor-pointer self-end flex items-center justify-between rounded-md hover:bg-sky-600"
                 >
                   <span>{aboutme.download}</span>
-                  <i class="fa-solid fa-download"></i>
+                  <i className="fa-solid fa-download"></i>
                 </a>
               </div>
               <div></div>

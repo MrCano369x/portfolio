@@ -4,7 +4,8 @@
     "aboutme": {
       "title": "About me",
       "gretting": "¡Hello! I'm Arturo Cano",
-      "description": "A recent graduate in Software Engineering, I live in Colima, Mexico, I'm 22 years old, and I've been learning to program for 5 years and I love it. I consider myself very competent in fullstack web development with JavaScript and I'm really looking forward to getting my first job.",
+      "grade": "Software Engineer - FullStack Dev Jr",
+      "description": "I am a recent graduate student in Software Engineering, I am 22 years old, I have been programming for 5 years and I love it. I enjoy developing complete applications with the javascript stack, and I really want to get my first job.",
       "contact": "Contact me",
       "download": "Download CV"
     },
@@ -156,7 +157,8 @@
     "aboutme": {
       "title": "Sobre mi",
       "gretting": "¡Hola! soy Arturo Cano",
-      "description": "Un estudiante recién egresado en Ingeniería de Software, vivo en Colima, México, tengo 22 años, y desde hace 5 aprendí a programar y me encanta. Me considero muy capaz en el desarrollo web fullstack con JavaScript y tengo muchas ganas de obtener mi primer trabajo.",
+      "grade": "Ingeniero de Software - FullStack Dev Jr",
+      "description": "Soy un estudiante recién graduado en Ingeniería de Software, tengo 22 años, llevo 5 años programando y me encanta. Disfruto desarrollando aplicaciones completas con el stack de javascript, y tengo muchas ganas de conseguir mi primer trabajo.",
       "contact": "Contáctame",
       "download": "Descargar CV"
     },
